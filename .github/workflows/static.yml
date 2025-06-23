@@ -1,4 +1,4 @@
-yamlname: Deploy React App to Pages
+name: Deploy React App to Pages
 
 on:
   push:
